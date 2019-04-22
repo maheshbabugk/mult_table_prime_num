@@ -18,8 +18,11 @@ Installation:
 Developed: PHP 5.6 / 7 Above.
 
 Install and Execute Default Behavior
+
 git clone https://github.com/maheshbabugk/mult_table_prime_num.git
+
 cd mult_table_prime_num
+
 php coding_test.php // executed default behavior N = 10
 
 Example Output: php coding_test.php
